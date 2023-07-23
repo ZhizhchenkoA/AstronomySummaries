@@ -1,2 +1,2 @@
-# latex_project
+### LaTeX Project
 Мои тренировочные шаблоны в LaTeX
